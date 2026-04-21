@@ -1,16 +1,16 @@
-Siap. Ini **draft Post Content #9** yang konsisten sama tone Cangkir (tenang, strategis, business-minded).
+Ini full draft revisi Post #9:
 
-## CAROUSEL — Post #9  
+---
+
+## CAROUSEL — Post #9
 **Tema:** Google Business + Website = Mesin Akuisisi Lokal
 
 ### Slide 1 — Hook
-**Teks utama:**
 ```text
 Lokasi kamu strategis.
 Produk kamu bagus.
 Tapi yang datang tetap ke kompetitor.
 ```
-
 **Subtext:**
 ```text
 Biasanya masalahnya bukan di produk.
@@ -24,14 +24,13 @@ Masalahnya di visibilitas saat orang siap beli.
 ```text
 Sebelum chat, orang cari dulu di Google.
 ```
-
 **Teks isi:**
 ```text
 Mereka cek cepat:
 - Lokasi
 - Jam buka
 - Review
-- Website (kalau ada)
+- Website — untuk konfirmasi sebelum memutuskan
 ```
 
 ---
@@ -42,7 +41,6 @@ Mereka cek cepat:
 Instagram bagus untuk awareness.
 Tapi tidak cukup untuk intent lokal.
 ```
-
 **Teks isi:**
 ```text
 Saat orang ketik:
@@ -59,11 +57,11 @@ bukan feed yang rapi.
 ```text
 Yang bekerja: Google Business + Website.
 ```
-
 **Teks isi:**
 ```text
 Google Business menangkap niat beli lokal.
-Website mengubah niat itu jadi keputusan.
+Website menjawab pertanyaan terakhir
+sebelum mereka memilih.
 ```
 
 ---
@@ -73,12 +71,11 @@ Website mengubah niat itu jadi keputusan.
 ```text
 5 fondasi minimum:
 ```
-
 **Teks isi:**
 ```text
 1) NAP konsisten (nama, alamat, nomor)
 2) Kategori bisnis yang tepat
-3) Review asli dan rutin
+3) Review konsisten dan direspons
 4) Halaman layanan berbasis keyword lokal
 5) CTA jelas: WhatsApp / maps / call
 ```
@@ -91,13 +88,11 @@ Website mengubah niat itu jadi keputusan.
 Kalau bisnis kamu sudah jalan,
 sekarang saatnya benahi mesin lokasinya.
 ```
-
 **Teks isi:**
 ```text
 Kami bantu audit struktur Google Business + website
 biar bisnis kamu muncul di momen keputusan.
 ```
-
 **CTA kecil:**
 ```text
 DM "AUDIT" untuk mulai.
@@ -106,18 +101,14 @@ DM "AUDIT" untuk mulai.
 ---
 
 ## Caption Post #9
-
 ```text
-Banyak bisnis lokal merasa sudah “aktif digital” karena Instagram jalan terus.
+Banyak bisnis lokal merasa sudah "aktif digital" karena Instagram jalan terus.
 
 Padahal saat calon pelanggan benar-benar siap beli, mereka tidak buka feed dulu.
 Mereka buka Google.
 
-Di titik itu, yang dilihat sederhana:
-- apakah bisnis ini nyata?
-- apakah informasinya lengkap?
-- apakah bisa dipercaya?
-- apakah langkah berikutnya jelas?
+Di titik itu, bisnis yang tidak siap secara struktur kehilangan peluang
+yang tidak pernah mereka tahu ada.
 
 Karena itu kami selalu dorong 2 aset berjalan bareng:
 Google Business untuk menangkap intent lokal,
@@ -130,7 +121,17 @@ Kalau Anda ingin, kami bisa bantu cek cepat:
 bagian mana yang paling menghambat visibilitas lokal bisnis Anda saat ini.
 
 — Cangkir
-Strategic Execution Partner untuk Struktur Digital & SEO Lokal
+Partner Eksekusi Digital & SEO Lokal
 ```
 
-Kalau kamu mau, next saya bisa bikin **Post #10** sebagai lanjutan (format “mini case breakdown” biar feed makin evidence-based).
+---
+
+Perubahan dari draft awal:
+
+| Slide/Bagian | Perubahan |
+|---|---|
+| Slide 2 | "Website (kalau ada)" → "Website — untuk konfirmasi sebelum memutuskan" |
+| Slide 4 | Kalimat solusi diperketat, angle "pertanyaan terakhir sebelum memilih" |
+| Slide 5 | "Review asli dan rutin" → "Review konsisten dan direspons" |
+| Caption | 4 bullet diganti 1 kalimat impak; "kebocoran" diberi napas baris tersendiri |
+| Footer | Diperpendek jadi "Partner Eksekusi Digital & SEO Lokal" |
